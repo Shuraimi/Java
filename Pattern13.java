@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pattern12{
+public class Pattern13{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter any number to print the pattern");
