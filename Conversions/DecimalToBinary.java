@@ -7,8 +7,8 @@ public class Main {
 
 		String rem="";//used string
 		while(n!=0){
-		    rem=(n%2)+rem;
-		    n=n/2;
+		    rem=(n%2)+rem;//remainder
+		    n=n/2;//quotient
 	}
 	System.out.println(rem);
 	}
