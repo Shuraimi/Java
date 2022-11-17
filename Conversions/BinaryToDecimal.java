@@ -1,6 +1,6 @@
 //binary to decimal without validation
 import java.util.*;
-public class Main {
+public class BinaryToDecimal {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = 0;
