@@ -1,6 +1,6 @@
 //function to validate hexadecimal and return true if true
 import java.util.*;
-public class Main {
+public class ValidateHexadecimal {
 	static boolean isHexa(String s) {
 		int j;
 		char ch;
