@@ -1,6 +1,6 @@
 //program to convert hexaDecimal to decimal after validating input
 import java.util.*;
-public class Main {
+public class  HexadecimalToDecimal {
 	static boolean isHexa(String s) {
 		int j;
 		char ch;
