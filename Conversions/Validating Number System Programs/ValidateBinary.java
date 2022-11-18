@@ -1,6 +1,6 @@
 //function to check whether the given input is valid binary or not
 import java.util.*;
-public class validateBinary {
+public class ValidateBinary {
 	static boolean isBinary(int n) {
 		int dig = 0;
 
