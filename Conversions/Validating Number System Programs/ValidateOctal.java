@@ -1,6 +1,6 @@
 //Program to validate whether a given number is ocatl or not
 import java.util.*;
-public class validateOctal {
+public class ValidateOctal {
 	static boolean isOctal(int N) {
 		int dig;
 		while (N != 0) {
