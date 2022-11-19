@@ -49,7 +49,7 @@ public class OctalToHexadecimal{
 		Scanner sc = new Scanner(System.in);
 		int n;
 		do {
-			System.out.println("Enter you number");
+			System.out.println("Enter you number to be converted from Octal to Hexadecimal");
 			n = sc.nextInt();
 		} while (!(isOctal(n)));
         //Above do..while loop goes on untill the given input is a valid octal  
