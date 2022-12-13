@@ -16,6 +16,8 @@ public class ValidateHexadecimal {
 				flag = true;
 			} else {
 				flag = false;
+                                break;//which is used to break the loop of any character in the string is not a valid hexadecimal
+
 			}
 
 		}
