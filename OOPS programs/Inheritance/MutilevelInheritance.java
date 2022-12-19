@@ -39,7 +39,7 @@ class Son extends Father {
 	}
 }
 
-public class HierarchicalInheritance {
+public class MultilevelInheritance {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter grandfather's name");
